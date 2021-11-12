@@ -9,7 +9,7 @@ endif
 ```
 
 ## Installation
-1 Add the One_Steam_Vim_Theme.vim file to your `~/.vim/colors` directory.
+1 Add the Breath2_Ripoff.vim file to your `~/.vim/colors` directory.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 If the directory does not exist then create one
 
