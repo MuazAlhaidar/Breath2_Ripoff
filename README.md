@@ -1,5 +1,5 @@
 # Breath2_Ripoff_Vim_Theme
-This is a vim theme based on the Breath2 theme that comes default with KDE Plasma Manjaro
+This is a vim theme (color scheme) based on the Breath2 theme that comes default with KDE Plasma Manjaro
 
 Make sure you have this added to your `.vimrc` for the true colors of the theme.
 ```vim
